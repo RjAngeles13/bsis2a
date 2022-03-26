@@ -1,2 +1,2 @@
-welcome
-BSIS A Git hub
+Welcome BSIS
+Git and Github
